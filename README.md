@@ -16,8 +16,8 @@ I'm a tech student by day and a **digital builder** by night. I don't just write
 ---
 
 ### 📊 FlowState Performance Metrics
-![Osassk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Osassk&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=38B2AC&icon_color=38B2AC)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Osassk&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=38B2AC)
+![flowstatestudios GitHub stats](https://github-readme-stats.vercel.app/api?username=flowstatestudios&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=38B2AC&icon_color=38B2AC)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flowstatestudios&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=38B2AC)
 
 ---
 
