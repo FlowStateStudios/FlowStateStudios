@@ -13,7 +13,7 @@ I am a **Product Engineer** based in Nigeria, operating at the intersection of h
 ---
 
 ### 📊 Lab Performance Metrics
-![Success's GitHub stats](https://github-readme-stats.vercel.app/api?username=Osassk&show_icons=true&theme=dark&hide_border=true&bg_color=050505&title_color=ffffff&icon_color=38B2AC&text_color=999999)
+![Manuallab GitHub stats](https://github-readme-stats.vercel.app/api?username=Manuallab&show_icons=true&theme=dark&hide_border=true&bg_color=050505&title_color=ffffff&icon_color=38B2AC&text_color=999999)
 
 ---
 
