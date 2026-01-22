@@ -2,8 +2,7 @@
 
 ### 🏗️ Building clean, fast web apps for businesses that move quickly.
 
-I'm a tech student by day and a **digital builder** by night. I don't just write lines of code; I turn business ideas into functional web products that actually work. Based in Benin City, currently focused on rapid web app development and AI-integrated systems.
-
+Computer Science student building functional web products. Currently running FlowState Studios making the web move a bit faster.
 ---
 
 ### 🛠️ Tech Stack & Arsenal
